@@ -1,0 +1,9 @@
+
+//Contains the dummy json data which you might want to use when testing stuff.
+//Useful when sometimes maybe an API is too expensive to call or you don't have an access
+
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
